@@ -1,0 +1,8 @@
+{
+  "name": "ChaosControl",
+  "description": "A high-performance executive dashboard designed to transform mental clutter into structured action using Gemini AI. Turn chaos into controlled progress.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
